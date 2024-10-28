@@ -1,2 +1,2 @@
-# 1st-day-of-class
+# 1st-day
 This is my first report
